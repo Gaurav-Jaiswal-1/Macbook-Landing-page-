@@ -1,6 +1,4 @@
-Here's a refined description for your GitHub repository, focusing on the purpose and technical details of the MacBook landing page:
 
----
 
 # MacBook 3D Landing Page
 
@@ -29,7 +27,7 @@ A sleek, interactive landing page designed to showcase a MacBook model with 3D e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/macbook-landing-page.git
+   git clone https://github.com/Gaurav-Jaiswal-1/Macbook-Landing-page-.git
    cd macbook-landing-page
    ```
 
@@ -48,6 +46,4 @@ A sleek, interactive landing page designed to showcase a MacBook model with 3D e
 - **Explore the MacBook model**: Use the mouse to rotate and view the model from different angles.
 - **Responsive UI**: Enjoy a smooth experience across devices.
 
----
 
-This description provides a clear summary of the project and instructions for getting started, which can attract interest and encourage contributions from other developers. Let me know if there’s anything specific you'd like to add!
